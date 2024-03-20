@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: #002339;
+    color: #fff;
+}
+.container{
+max-width: 700px;
+width: 90%;
+margin: 12%;
+}
+.genPas{
+    font-weight: 500;
+    font-size: 45px;
+}
+span{
+    font-weight: 500;
+    font-size: 45px;
+    color: #019f55;
+    border-bottom: 3px solid #019f55;
+    padding-bottom: 7px;
+}
+.img-inp{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    width: 100%;
+    background: #fff;
+    color: #333;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+input{
+    border: none;
+    /* outline: 0; */
+    font-size: 24px;
+    outline: none;
+    padding: 5px;
+}
+.copy{
+    width: 30px;
+    height: 35px;
+    cursor: pointer;
+}
+button{
+    /* width: 280px; */
+    padding: 10px;
+    font-size: 22px;
+    font-weight: 300;
+    background-color: #019f55;
+    color: #fff;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 26px;
+    cursor: pointer;
+}
+.bijli{
+    width: 28px;
+    margin-right: 10px;
+    /* height: 35px; */
+}
